@@ -1,5 +1,5 @@
 ### Hi everybody 👋
-My name is Bogdan Nikitin and i'am talented web-designer and junior frontend developer 💡
+My name is Bogdan Nikitin and i'am talented **web-designer** and **junior frontend developer** 💡
 * 🔭 I’m currently working on: [Kord-Optika](https://kord-optika.ru/) *(design)*, [Promo24pro](https://promo24pro.com) *(full-stack)*
 * 🎯 Current aim: middle frontend developer
 * 👨‍🎓 Education: [Minsk Radioengineering College](https://promo24pro.com) 2020-2023 (expected)
