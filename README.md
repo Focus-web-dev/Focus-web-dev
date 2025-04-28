@@ -1,5 +1,4 @@
-### Hi everybody 👋
-## Bogdan Nikitin
+### Bogdan Nikitin
 Front-end developer with a great commercial experience in different fields. 💡
 * 🎯 Current aim: fullstack development
 * 👨‍🎓 Education: [Minsk Radioengineering College](https://mrk.bsuir.by/en/) 2020-2023
