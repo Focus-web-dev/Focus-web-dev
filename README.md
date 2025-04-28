@@ -1,7 +1,8 @@
 ### Hi everybody 👋
-My name is Bogdan Nikitin and i'am talented **web-designer** and **junior frontend developer** 💡
-* 🎯 Current aim: middle frontend developer
-* 👨‍🎓 Education: [Minsk Radioengineering College](https://promo24pro.com) 2020-2023 (expected)
+## Bogdan Nikitin
+Front-end developer with a great commercial experience in different fields. 💡
+* 🎯 Current aim: fullstack development
+* 👨‍🎓 Education: [Minsk Radioengineering College](https://promo24pro.com) 2020-2023
 * 🌎 Languages: English, Russian, Belorussian
 
 ### Consider giving my work a ⭐ to show some ❤️
